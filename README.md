@@ -1,6 +1,6 @@
 # Application Name
 
-Description of what the application is supposed to do.
+Friday project
 
 by *Jason Stocks*
 
@@ -13,8 +13,9 @@ by *Jason Stocks*
 * CSS
 
 ## Program Setup Instructions
-
+Click link to go to GIThub page
 ## Link to Site on GitHub Pages
+<a>https://github.com/jstocks01/uber-real-friday</a>
 
 ## Known Bugs
 
