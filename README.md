@@ -23,3 +23,6 @@ There are no current known bugs.
 
 ## Copyright and License Information
 
+This software is licensed under the MIT license
+
+Copyright (c) 2020 Jason Stocks
