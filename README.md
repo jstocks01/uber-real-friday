@@ -21,6 +21,9 @@ Click link to go to GIThub page
 
 There are no current known bugs.  
 
+## Description ##
+This the result of my work for the friday project.
+
 ## Copyright and License Information
 
 This software is licensed under the MIT license
