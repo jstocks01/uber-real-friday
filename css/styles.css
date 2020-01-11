@@ -2,12 +2,14 @@ h1 {
  margin-left: 125px;
 }
 h2 {
-  center; color: rgb(223, 223, 43)
+  center; color: rgb(223, 43, 97)
 }
 
-
+body {
+  background-color: bisque;
+}
 
 img.yoda {
-  float margin-left: 50%;
-  width:200px;
+  float-left 100px;
+  max-width: 225px;
 }
