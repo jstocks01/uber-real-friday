@@ -13,16 +13,16 @@ by *Jason Stocks*
 * CSS
 
 ## Program Setup Instructions
-Click link to go to GIThub page
+Open git hub and clone the respository and open in a new browser tab.
 ## Link to Site on GitHub Pages
 <a>https://github.com/jstocks01/uber-real-friday</a>
-
+<a>https://github.com/jstocks01/uber-real-friday/tree/gh-pages</a>
 ## Known Bugs
 
 There are no current known bugs.  
 
 ## Description ##
-This the result of my work for the friday project.
+This the result of my work for the friday project. Reading the project requirements I tried to incorporate the elements in a fun way. I have inclided information about me to help the reader gain a sense of  me as a person. I hope you enjoy my attempt.
 
 ## Copyright and License Information
 
