@@ -1,31 +1,25 @@
 body {
   font-family: Courier;
 }
-
 h1 {
  margin-left: 125px;
 }
 h2 {
   background-color: color =red;
 }
-
 body {
   background-color: bisque;
 }
-
 img.yoda {
   float: right;
   max-width: 325px;
 }
-
 .cass1{
   font-size: medium;
   font-family: 'Franklin Gothic Medium';
 }
 .cass2{
-
   font-weight: bold
-
 }
   .doggie {
     margin: 12px;
@@ -33,4 +27,3 @@ img.yoda {
     padding: 4px;
     background-color: orange;
   }
-}
