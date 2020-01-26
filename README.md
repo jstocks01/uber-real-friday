@@ -19,7 +19,7 @@ To install:
  Open the index.html in a browser.
 ## Link to Site on GitHub Pages ##
 <a>https://github.com/jstocks01/uber-real-friday</a>
-<a>https://github.com/jstocks01/uber-real-friday/tree/gh-pages</a>
+<a>https://jstocks01.github.io/uber-real-friday/</a>
 ## Known Bugs
 
 There are no current known bugs.  
